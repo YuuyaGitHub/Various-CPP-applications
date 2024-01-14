@@ -6,7 +6,7 @@ This program generates random numbers.
 2. Enter the minimum and maximum random numbers.
 3. A random number will be displayed.
 
-# argument
+# Arguments
 ```-cls``` - Allows you to clear the console window.
 
 # Error handling
