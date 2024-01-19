@@ -5,6 +5,7 @@ A repository for distributing various CPPs.
 ## Why not put it in My-C-Apps-Pack?
 My-C-Apps-Pack does not distribute source code.
 This repository is there because this is where the source code is distributed and I don't like having the source code in the same place as the non-source distribution version.
+<br><br>It may not make sense, but it's my reason anyway.
 
 # Related repositories
 * [Former C++ repository](https://github.com/YuuyaGitHub/My-C-Apps-Pack)
