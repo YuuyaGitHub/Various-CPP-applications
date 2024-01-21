@@ -10,7 +10,10 @@ This program generates random numbers.
 ```-cls``` - Allows you to clear the console window.
 
 # Error handling
-This program does not actually handle errors, so be careful not to enter a maximum value that is smaller than the minimum value.
+Please note that this program does not implement error handling, so it does not expect you to:
+
+* Enter a minimum value that is smaller than the maximum value (or vice versa)
+* Don't enter anything
 
 # Credit
 * [ChatGPT](https://chat.openai.com/) - Thanks for writing all the code.
