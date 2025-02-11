@@ -13,15 +13,16 @@ If the argument is not specified or is invalid, nothing happens.
 | ``MB_ICONQUESTION``<br>``question`` | ``MB_ICONQUESTION`` | Question |
 
 # Compatibility
-This program is built using the Windows XP toolset. It is designed to work on Windows XP as well, but it says ``MSVCP140.dll not found``. Maybe I just don't have the runtime properly installed on my Windows XP VM, but it didn't work on my XP VM anyway.
+This program is built using the Windows XP toolset. ~It is designed to work on Windows XP as well, but it says ``MSVCP140.dll not found``. Maybe I just don't have the runtime properly installed on my Windows XP VM, but it didn't work on my XP VM anyway.~
 
 ## Tested
 This program has been verified to work properly with the following operating systems:
 * Windows Vista Ultimate SP2
 * Windows 7 Ultimate SP1
-* Windows 11 Pro 23H2 Build 22631.3527
+* Windows 11 Pro 23H2 OS Build 22631.3527
+* Windows XP Professional SP3
 
-Windows Vista or later should work in environments other than these.
+Windows XP or later should work in environments other than these.
 
 # Download
 This program can be downloaded [here](https://github.com/YuuyaGitHub/Various-CPP-applications/raw/main/SystemSoundPlayer/Release/SystemSoundPlayer.exe).
